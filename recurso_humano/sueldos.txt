@@ -1,0 +1,4 @@
+Manager Design $4000
+Programming $2000
+Developer $5000
+Design Software $3000
